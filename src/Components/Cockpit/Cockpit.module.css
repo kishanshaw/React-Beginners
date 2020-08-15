@@ -1,0 +1,47 @@
+/*
+ * Cockpit css File
+*/
+
+.red {
+    color: red;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .button {
+    background-color: green;
+    color: white;
+    font: inherit;
+    border: 2px solid darkgrey;
+    padding: 8px;
+  }
+  
+  
+  .button:hover {
+    background-color: salmon;
+    color: black;
+  }
+
+
+  .Cockpit button {
+    background-color: green;
+    color: white;
+    font: inherit;
+    border: 2px solid darkgrey;
+    padding: 8px;
+  }
+
+  .Cockpit button:hover {
+    background-color: salmon;
+    color: black;
+  }
+
+  .Cockpit button.Red {
+      background-color: red;
+  }
+
+  .Cockpit button.Red:hover {
+      background-color: salmon;
+  }

@@ -1,0 +1,13 @@
+/*
+ * Person css File
+*/
+
+.Person {
+    width: 60%;
+    margin: 10px auto;
+    border: 1px solid lightgrey;
+    box-shadow: 0 2px 3px black;
+    padding: 15px;
+    text-align:  center;
+    color: black
+}
